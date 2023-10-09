@@ -1,7 +1,7 @@
-import { reducers } from 'app/rootReducers';
-import { sagas } from 'app/rootSaga';
+import { reducers } from './app/rootReducers';
+import { sagas } from './app/rootSaga';
 
-import SampleFile from 'pages/common/components/SampleFile';
+import SampleFile from './pages/common/components/SampleFile';
 
 const components = {
   SampleFile
