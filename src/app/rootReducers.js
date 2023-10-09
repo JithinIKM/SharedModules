@@ -17,4 +17,6 @@ const rootReducer = {
   ...reducers
 };
 
+export { rootReducer };
+
 export default rootReducer;

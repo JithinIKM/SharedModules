@@ -14,6 +14,8 @@ _.values({ ...commonModules }).forEach((module) => {
   });
 });
 
+export { sagas };
+
 export default function* rootSaga() {
   yield all([...sagas]);
 }
