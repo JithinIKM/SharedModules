@@ -17,6 +17,6 @@ const rootReducer = {
   ...reducers
 };
 
-export { rootReducer };
+export { rootReducer as reducers };
 
 export default rootReducer;

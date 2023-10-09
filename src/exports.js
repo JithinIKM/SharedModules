@@ -1,4 +1,4 @@
-import { rootReducer as reducers } from 'app/rootReducers';
+import { reducers } from 'app/rootReducers';
 import { sagas } from 'app/rootSaga';
 
 import SampleFile from 'pages/common/components/SampleFile';
