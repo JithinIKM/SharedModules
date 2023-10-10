@@ -1,6 +1,7 @@
 {
   "name": "ksm-shared-ui",
   "version": "0.0.3",
+  "type": "module",
   "main": "./src/exports.js",
   "description": "KSM UI COMPONENTS",
   "author": {
